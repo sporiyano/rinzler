@@ -672,7 +672,7 @@ $translations = array(
     'İleri',
   'Skip to play' =>
     'Oyuna geç',
-  'Powered By Facebook' =>
+  'Powered by the 195th Cyberwarriors' =>
     'Facebook Tarafından Geliştiriliyor',
   'Active Directory / LDAP' =>
     'Active Directory / LDAP',

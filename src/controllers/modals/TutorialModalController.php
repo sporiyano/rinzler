@@ -117,7 +117,7 @@ class TutorialModalController extends ModalController {
       case 'game-on':
         $content =
           <div class="main-text">
-            <p>{tr('Have fun, be the best and conquer the world.')}</p>
+            <p>{tr('Have fun, be the best and Shall We Play a Game?.')}</p>
           </div>;
         return tuple($step, tr('Game_On'), '', null, $content);
       default:

@@ -43,7 +43,7 @@ class IndexController extends Controller {
     if ($custom_org->getValue() === 'Facebook') {
       $welcome_msg =
         tr(
-          'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
+          'Welcome to the 195th Cyberwarriors Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
         );
     } else {
       $welcome_msg =
@@ -58,8 +58,8 @@ class IndexController extends Controller {
           class=
             "fb-main page--landing row-fluid no-shrink center-vertically fb-img-glitch">
           <div class="fb-container fb-centered-main">
-            <h1 class="fb-glitch" data-text={tr('Conquer the world')}>
-              {tr('Conquer the world')}
+            <h1 class="fb-glitch" data-text={tr('Shall We Play a Game?')}>
+              {tr('Shall We Play a Game?')}
             </h1>
             <p class="typed-text">
               {$welcome_msg}
@@ -266,7 +266,7 @@ class IndexController extends Controller {
               <div class="rule-main">
                 <p>
                   {tr(
-                    'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.',
+                    'By participating in the contest, you agree to release the 195th Cyberwarriors, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest.',
                   )}
                 </p>
               </div>

@@ -672,7 +672,7 @@ $translations = array(
     'Hurrengoa',
   'Skip to play' =>
     'Skip to play',
-  'Powered By Facebook' =>
+  'Powered by the 195th Cyberwarriors' =>
     'Nork Facebook By',
   'Active Directory / LDAP' =>
     'Active Directory / LDAP',

@@ -7,12 +7,12 @@ $translations = array(
   //Translations for IndexController
   'Facebook CTF' =>
     'Facebook CTF',
-  'Conquer the world' =>
-    'Conquer the world',
+  'Shall We Play a Game?' =>
+    'Shall We Play a Game?',
   'Play' =>
     'Play',
-  'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.' =>
-    'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
+  'Welcome to the 195th Cyberwarriors Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Finish the Fight!' =>
+    'Welcome to the 195th Cyberwarriors Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Finish the Fight!',
   'Get ready for the CTF to start and access the gameboard now!' =>
     'Get ready for the CTF to start and access the gameboard now!',
   'Gameboard' =>
@@ -65,8 +65,8 @@ $translations = array(
     'Legal',
   'Disclaimer' =>
     'Disclaimer',
-  'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
-    'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.',
+  'By participating in the contest, you agree to release Cyberwarriors and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest.' =>
+    'By participating in the contest, you agree to release Cyberwarriors and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest.',
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
     'If you have any questions about what is or is not allowed, please ask an organizer.',
   'Have fun!' =>
@@ -674,8 +674,8 @@ $translations = array(
     'Click "Nav" to access main navigation links like Rules of Play, Registration, Blog, Jobs & more.',
   'Track your competition by clicking "scoreboard" to access real-time game statistics and graphs.' =>
     'Track your competition by clicking "scoreboard" to access real-time game statistics and graphs.',
-  'Have fun, be the best and conquer the world.' =>
-    'Have fun, be the best and conquer the world.',
+  'Have fun, be the best and Shall We Play a Game?.' =>
+    'Have fun, be the best and Shall We Play a Game?.',
   'Game_On' =>
     'Game_On',
   'tutorial_' =>
@@ -684,8 +684,8 @@ $translations = array(
     'Next',
   'Skip to play' =>
     'Skip to play',
-  'Powered By Facebook' =>
-    'Powered By Facebook',
+  'Powered by the 195th Cyberwarriors' =>
+    'Powered by the 195th Cyberwarriors',
   'Active Directory / LDAP' =>
     'Active Directory / LDAP',
   'LDAP Server' =>

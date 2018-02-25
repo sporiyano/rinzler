@@ -672,7 +672,7 @@ $translations = array(
     'Inayofuata',
   'Skip to play' =>
     'Ruka mpaka kwenye kucheza',
-  'Powered By Facebook' =>
+  'Powered by the 195th Cyberwarriors' =>
     'Imewezeshwa na Facebook',
   'Active Directory / LDAP' =>
     'Active Directory / LDAP',

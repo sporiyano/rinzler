@@ -672,8 +672,8 @@ $translations = array(
     'Weiter',
   'Skip to play' =>
     'Weiterspielen',
-  'Powered By Facebook' =>
-    'Powered by Facebook',
+  'Powered by the 195th Cyberwarriors' =>
+    'Powered by the 195th Cyberwarriors',
   'Active Directory / LDAP' =>
     'Active Directory / LDAP',
   'LDAP Server' =>
